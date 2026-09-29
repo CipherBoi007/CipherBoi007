@@ -1,55 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1144px" height="570px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1082px" height="512px" font-size="16px">
 <style>.a{white-space:pre}</style>
-<rect width="1144px" height="570px" fill="#161b22" rx="15"/>
-<text x="30" y="30" fill="#c9d1d9" class="a" xml:space="preserve">
-<tspan x="30" y="30">                      ^|j|^+</tspan>
-<tspan x="30" y="50">                j%mMMMMmmHmk*+:</tspan>
-<tspan x="30" y="70">             |mM@@ggMMmMMmmgMH*^</tspan>
-<tspan x="30" y="90">           rM@@@gggMMggMmmmM@@@gMHr~</tspan>
-<tspan x="30" y="110">          H@@@@@@@gmk*|=++=jHg@@gm%^</tspan>
-<tspan x="30" y="130">          @@@g@@@M%=~  ,:;~-^*ggmH</tspan>
-<tspan x="30" y="150">          M@@Hrr^;      `,,::=mmHr</tspan>
-<tspan x="30" y="170">          *@@*==+=+      ++==-%Mg</tspan>
-<tspan x="30" y="190">           M@|*HHHHHr^+|Hmkj|-jHr</tspan>
-<tspan x="30" y="210">           ^k=|**krk%^;=r**+=:~^+</tspan>
-<tspan x="30" y="230">           =j+~;~=+-+;`::~~:,,:=|</tspan>
-<tspan x="30" y="250">           +r^-;,  ~^^;-~,   ,;j-</tspan>
-<tspan x="30" y="270">            rk^+-~;-*k*|+:  ,;^j</tspan>
-<tspan x="30" y="290">             jkj^jk%%r||^|j~~+j</tspan>
-<tspan x="30" y="310">              r*r*%rrjj^~:-~+^</tspan>
-<tspan x="30" y="330">               ^%r|=^rkr-;~=^|</tspan>
-<tspan x="30" y="350">               =kkHmmmmMMmHj~j@;</tspan>
-<tspan x="30" y="370">             `&#x27;|H%HmMMmH*|+~~km`</tspan>
-<tspan x="30" y="390">            ```,%%*%%%r^--+^%m- .&#x27;&#x27;&#x27;</tspan>
-<tspan x="30" y="410">      ```,,,``` ;k*r*%*rrr%Mm-`   `&#x27;&#x27;&#x27;`&#x27;`</tspan>
-<tspan x="30" y="430">&#x27;``,,,,::::;=*H- +k*r*%k%km*~=|~:``&#x27;``&#x27;,`,&#x27;&#x27;&#x27;&#x27;.</tspan>
-<tspan x="30" y="450">:::::;::;:~+|rrr+;:=||jrrj+:-+-==~;:`.:,`,&#x27;,,:.&#x27;.</tspan>
-<tspan x="30" y="470">:;:::;::;;~~;;;-=^+:~=++~;;;:,:;,`,;,,,`:.,:~:``&#x27;&#x27;</tspan>
-<tspan x="30" y="490">;~:,;;::::::;;;;;;-^+=-,:~;,,::,`,::,``:&#x27;&#x27;:~;~,`,:</tspan>
-<tspan x="30" y="510">;~;;;;::::,::::::;;~+~&#x27;,:,,,,,,,,,:,,`,`&#x27;&#x27;;;~+`:;,</tspan>
-<tspan x="30" y="530">;~;~;;;:::::::::::;--`:;,,,,,,,,,,,:,,```&#x27;:;^:;-:,</tspan>
+<rect width="1082px" height="512px" fill="#161b22" rx="15"/>
+<text x="30" y="34" fill="#c9d1d9" font-size="9px" class="a" xml:space="preserve">
+<tspan x="30" y="34">                                     rrjjr%</tspan>
+<tspan x="30" y="45">                              j^~;::::~-+=||j%H</tspan>
+<tspan x="30" y="56">                        =:&#x27;``&#x27;&#x27;```,::`,:;,:~~=|%kH</tspan>
+<tspan x="30" y="67">                    ^`...&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`,,,,,`::,``::-+*Hkk</tspan>
+<tspan x="30" y="78">                 ;&#x27;`..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`,,`&#x27;.``,:,&#x27;,,,;+=r</tspan>
+<tspan x="30" y="89">              ^,&#x27;&#x27;&#x27;&#x27;&#x27;......`,,``&#x27;..&#x27;````:,......&#x27;&#x27;`-^jj^+|</tspan>
+<tspan x="30" y="100">            ^`&#x27;........&#x27;..&#x27;&#x27;``&#x27;&#x27;&#x27;&#x27;&#x27;```&#x27;.&#x27;&#x27;&#x27;&#x27;..........`:-%</tspan>
+<tspan x="30" y="111">           ;&#x27;..............&#x27;```&#x27;`,:;-====+-+;&#x27;.......&#x27;,:-++j</tspan>
+<tspan x="30" y="122">          `.&#x27;&#x27;...........&#x27;&#x27;,::;-=|r%kkkk%*j=-,&#x27;&#x27;...&#x27;&#x27;&#x27;`:,-|</tspan>
+<tspan x="30" y="133">          &#x27;...............`~=j*HmmmmHHkk%%%j=-;;&#x27;..&#x27;&#x27;&#x27;`;|</tspan>
+<tspan x="30" y="144">         ^..............,~|%kmm     mHmHkkkkk%j-`&#x27;&#x27;&#x27;`,,;</tspan>
+<tspan x="30" y="155">          ,.....,;;::~-|%H          mmmHHHHHkk*=:``,::`j</tspan>
+<tspan x="30" y="166">          `.....;^jjr*kkHH           mmmmHHHHkkj;``,:,~</tspan>
+<tspan x="30" y="177">          -.....;jj*%kHmm              MMMmHkkHH+`,`,`j</tspan>
+<tspan x="30" y="188">           `....^r|+===+-+=|r%HmmmmHr=--~-++=+=%r`:&#x27;&#x27;&#x27;|</tspan>
+<tspan x="30" y="199">           |...&#x27;*|,,,``````,:=j*rrrr-;:,:~-=jj|r%:,`~+%</tspan>
+<tspan x="30" y="210">            -,.&#x27;%|++---+=~;,,,~+^j*j+;::;-^r|r%km=:*m^|</tspan>
+<tspan x="30" y="221">            j|~;kj=-:,=,`+*:`:-|kmH*=~~^,,rr=j%HHk^r%%</tspan>
+<tspan x="30" y="232">            k+~j*r*%*^j^~=^^jjj*kmHk%%r||r%kmHmmHHr=-j</tspan>
+<tspan x="30" y="243">            *-~r**kHmmk%%**kkrr%HmmHkHmHkkHmmM MmH*r|=</tspan>
+<tspan x="30" y="254">            %j|^r*%kHH     m%rkHm MmmHmMMM     MmHj|*%</tspan>
+<tspan x="30" y="265">            H^+-jj*%HHmm   Hrj==|*Hr|kHmm    MmmHH+=%k</tspan>
+<tspan x="30" y="276">            k^+,-|j*%kkkHH Hk=~-~^|rj*mMm   MMHHkr;^H</tspan>
+<tspan x="30" y="287">             k*~,+^|jr**%kk%*|--+~+||*%Hm  MmmH%r|-</tspan>
+<tspan x="30" y="298">                ~;-=||jj|=--+~:;~-===|j|^^*mHk%rj^=</tspan>
+<tspan x="30" y="309">                k;~-=^||;`,::~-=^|jjjj|=+-^k%rjrr+</tspan>
+<tspan x="30" y="320">                 j~+++++~~-+==^|***%%kkmH*j%*r*r+%</tspan>
+<tspan x="30" y="331">                  j-+=+++=^^^=-;:``;=*m mmmkk%|^</tspan>
+<tspan x="30" y="342">                    =-+==^||jjj|=-+^*m    HHr+|j|</tspan>
+<tspan x="30" y="353">                    H;:;~+^|^=++-;;;--+=^=-~+jH+.~m</tspan>
+<tspan x="30" y="364">                   g^:-:,,``&#x27;&#x27;``,`,````,``:|%%k~&#x27;.|@</tspan>
+<tspan x="30" y="375">                 gMM=`-;;:,&#x27;....&#x27;&#x27;&#x27;...&#x27;`~|*%*%k~.&#x27;*@g</tspan>
+<tspan x="30" y="386">                gmmMr.~~;;;;;:,```,:~=j*%%%%*%r,.-m@@@</tspan>
+<tspan x="30" y="397">               gMmmMm;,-~~;;;~~~~+^|r%k%****r^;.;kM@@@@M</tspan>
+<tspan x="30" y="408">            MMMMMMmgMH:;---~~~~~-+^|jr*rrj|^-:.~kHg@@ggggggg</tspan>
+<tspan x="30" y="419">      gMMMMMmMMMgMM@gg%,~++++-~~~-+=^^^^=+~:`&#x27;-kkM@@ggggMMggggggg</tspan>
+<tspan x="30" y="430">gggMMMMmmmmmMMgMMMMggg@^:--+++-~~----+-~;:,`&#x27;-kkm@@@@@@@MmggggMMgggMMgggg</tspan>
+<tspan x="30" y="441">mmmmmmmmmmMmmkrj-:,=@@gg+;;-+++-~~~;~;;:,,,,=MH%~^M@@@@ggggggmMMMMmmMMMMgggg</tspan>
+<tspan x="30" y="452">mmHmmmHHmmHHHj^=~;,,rg@@m^-~+===+-~~~~~;;;-%g%|+^j||*%HMMMMgMMg@gMmMgMHg@Mgg</tspan>
+<tspan x="30" y="463">HHHmmmHHmHkH*|^+---~~^%m@gk|||^^==++++++=rMm*rrkk*rr|^*kkkmgggggmHm@gHM@MmMM</tspan>
+<tspan x="30" y="474">HHHHmHHHHHk****r**%%*rj|^M@M%rrjjjjjjjjrkgk%HHmmkHHk%HmmmHHHmggmHHggHH@gmmmM</tspan>
+<tspan x="30" y="485">HkHHmHHHHHkkkkHHHHk%%*rr^|%ggkrrr****%kmH%%HmmmmmmkkmMMMMmHHmgMHmggHHg@MmmmH</tspan>
 </text>
-<text x="539" y="30" class="a" xml:space="preserve">
-<tspan x="539" y="70"><tspan fill="#c9d1d9">yogesh@cipherboi007 </tspan><tspan fill="#c9d1d9">————————————————————————————————————————</tspan></tspan>
-<tspan x="539" y="90"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">OS</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">............. </tspan><tspan fill="#a5d6ff">B.E. CSE, Syed Ammal Engineering College</tspan></tspan>
-<tspan x="539" y="110"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Host</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">....................................... </tspan><tspan fill="#a5d6ff">Zeshin (COO)</tspan></tspan>
-<tspan x="539" y="130"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Kernel</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">..................... </tspan><tspan fill="#a5d6ff">Full Stack Developer · AI/ML</tspan></tspan>
-<tspan x="539" y="150"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Shell</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">........................ </tspan><tspan fill="#a5d6ff">Ramanathapuram, Tamil Nadu</tspan></tspan>
-<tspan x="539" y="170"><tspan fill="#616e7f">.</tspan></tspan>
-<tspan x="539" y="190"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Programming</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">..... </tspan><tspan fill="#a5d6ff">Python, JavaScript, Java, SQL</tspan></tspan>
-<tspan x="539" y="210"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Web</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.............. </tspan><tspan fill="#a5d6ff">Next.js, React.js, HTML, CSS</tspan></tspan>
-<tspan x="539" y="230"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Real</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">........................... </tspan><tspan fill="#a5d6ff">English, Tamil</tspan></tspan>
-<tspan x="539" y="250"><tspan fill="#616e7f">.</tspan></tspan>
-<tspan x="539" y="270"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.Backend</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.............. </tspan><tspan fill="#a5d6ff">Spring Boot, Django, FastAPI</tspan></tspan>
-<tspan x="539" y="290"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.Data</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">...................... </tspan><tspan fill="#a5d6ff">PostgreSQL, AWS, Docker</tspan></tspan>
-<tspan x="539" y="310"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.AI</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">............ </tspan><tspan fill="#a5d6ff">CNN, ResNet, EfficientNet, Grad-CAM</tspan></tspan>
-<tspan x="539" y="330"><tspan fill="#616e7f">.</tspan></tspan>
-<tspan x="539" y="350"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#c9d1d9">——————————————————————————————————————————————————</tspan></tspan>
-<tspan x="539" y="370"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Email.Personal</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................... </tspan><tspan fill="#a5d6ff">cipherboi007@gmail.com</tspan></tspan>
-<tspan x="539" y="390"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">LinkedIn</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................................... </tspan><tspan fill="#a5d6ff">yogesh-v-dev</tspan></tspan>
-<tspan x="539" y="410"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Portfolio</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................... </tspan><tspan fill="#a5d6ff">yogesh-v-dev-ten.vercel.app</tspan></tspan>
-<tspan x="539" y="430"><tspan fill="#616e7f">.</tspan></tspan>
-<tspan x="539" y="450"><tspan fill="#c9d1d9">- GitHub Stats </tspan><tspan fill="#c9d1d9">—————————————————————————————————————————————</tspan></tspan>
-<tspan x="539" y="470"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Repos</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................. </tspan><tspan fill="#a5d6ff">—</tspan><tspan fill="#c9d1d9"> | </tspan><tspan fill="#ffa657">Stars</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.................... </tspan><tspan fill="#a5d6ff">—</tspan></tspan>
-<tspan x="539" y="490"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Contributions (1y)</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.... </tspan><tspan fill="#a5d6ff">—</tspan><tspan fill="#c9d1d9"> | </tspan><tspan fill="#ffa657">Followers</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................ </tspan><tspan fill="#a5d6ff">—</tspan></tspan>
+<text x="476" y="30" class="a" xml:space="preserve">
+<tspan x="476" y="52"><tspan fill="#c9d1d9">yogesh@cipherboi007 </tspan><tspan fill="#c9d1d9">————————————————————————————————————————</tspan></tspan>
+<tspan x="476" y="72"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">OS</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">............. </tspan><tspan fill="#a5d6ff">B.E. CSE, Syed Ammal Engineering College</tspan></tspan>
+<tspan x="476" y="92"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Host</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">....................................... </tspan><tspan fill="#a5d6ff">Zeshin (COO)</tspan></tspan>
+<tspan x="476" y="112"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Kernel</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">..................... </tspan><tspan fill="#a5d6ff">Full Stack Developer · AI/ML</tspan></tspan>
+<tspan x="476" y="132"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Shell</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">........................ </tspan><tspan fill="#a5d6ff">Ramanathapuram, Tamil Nadu</tspan></tspan>
+<tspan x="476" y="152"><tspan fill="#616e7f">.</tspan></tspan>
+<tspan x="476" y="172"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Programming</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">..... </tspan><tspan fill="#a5d6ff">Python, JavaScript, Java, SQL</tspan></tspan>
+<tspan x="476" y="192"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Web</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.............. </tspan><tspan fill="#a5d6ff">Next.js, React.js, HTML, CSS</tspan></tspan>
+<tspan x="476" y="212"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages.Real</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">........................... </tspan><tspan fill="#a5d6ff">English, Tamil</tspan></tspan>
+<tspan x="476" y="232"><tspan fill="#616e7f">.</tspan></tspan>
+<tspan x="476" y="252"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.Backend</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.............. </tspan><tspan fill="#a5d6ff">Spring Boot, Django, FastAPI</tspan></tspan>
+<tspan x="476" y="272"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.Data</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">...................... </tspan><tspan fill="#a5d6ff">PostgreSQL, AWS, Docker</tspan></tspan>
+<tspan x="476" y="292"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack.AI</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">............ </tspan><tspan fill="#a5d6ff">CNN, ResNet, EfficientNet, Grad-CAM</tspan></tspan>
+<tspan x="476" y="312"><tspan fill="#616e7f">.</tspan></tspan>
+<tspan x="476" y="332"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#c9d1d9">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="476" y="352"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Email.Personal</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................... </tspan><tspan fill="#a5d6ff">cipherboi007@gmail.com</tspan></tspan>
+<tspan x="476" y="372"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">LinkedIn</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................................... </tspan><tspan fill="#a5d6ff">yogesh-v-dev</tspan></tspan>
+<tspan x="476" y="392"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Portfolio</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................... </tspan><tspan fill="#a5d6ff">yogesh-v-dev-ten.vercel.app</tspan></tspan>
+<tspan x="476" y="412"><tspan fill="#616e7f">.</tspan></tspan>
+<tspan x="476" y="432"><tspan fill="#c9d1d9">- GitHub Stats </tspan><tspan fill="#c9d1d9">—————————————————————————————————————————————</tspan></tspan>
+<tspan x="476" y="452"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Repos</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................. </tspan><tspan fill="#a5d6ff">—</tspan><tspan fill="#c9d1d9"> | </tspan><tspan fill="#ffa657">Stars</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.................... </tspan><tspan fill="#a5d6ff">—</tspan></tspan>
+<tspan x="476" y="472"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Contributions (1y)</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">.... </tspan><tspan fill="#a5d6ff">—</tspan><tspan fill="#c9d1d9"> | </tspan><tspan fill="#ffa657">Followers</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#616e7f">................ </tspan><tspan fill="#a5d6ff">—</tspan></tspan>
 </text></svg>

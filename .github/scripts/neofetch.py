@@ -5,7 +5,8 @@ from pathlib import Path
 
 USER = "CipherBoi007"
 ROOT = Path(__file__).resolve().parents[2]
-ART = (ROOT / ".github" / "scripts" / "art.txt").read_text().splitlines()
+ARTS = {t: (ROOT / ".github" / "scripts" / f"art_{t}.txt").read_text().splitlines() for t in ("dark", "light")}
+ART_FS, ART_LH = 9, 11  # portrait uses a smaller font for more detail
 W = 60  # width of the info column in characters
 
 def stats():
@@ -81,24 +82,26 @@ def build(theme, s):
     pair("Repos", fmt(s.get("repos")), "Stars", fmt(s.get("stars")))
     pair("Contributions (1y)", fmt(s.get("contributions")), "Followers", fmt(s.get("followers")))
 
+    ART = ARTS[theme]
     LH, FS, CW = 20, 16, 9.6
-    art_w = max(len(l) for l in ART)
-    rows = max(len(ART), len(info))
-    ix = 30 + (art_w + 3) * CW
+    art_w = max(len(l) for l in ART) * ART_FS * 0.6
+    art_h = len(ART) * ART_LH
+    info_h = len(info) * LH
+    ix = 30 + art_w + 36
     width = int(ix + W * CW + 30)
-    height = rows * LH + 50
-    a_off = (rows - len(ART)) // 2
-    i_off = (rows - len(info)) // 2
+    height = int(max(art_h, info_h) + 50)
+    a_y = 25 + (height - 50 - art_h) / 2 + ART_FS
+    i_y = 25 + (height - 50 - info_h) / 2 + FS
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,\'Courier New\',monospace" width="{width}px" height="{height}px" font-size="{FS}px">',
            '<style>.a{white-space:pre}</style>',
            f'<rect width="{width}px" height="{height}px" fill="{c["bg"]}" rx="15"/>',
-           f'<text x="30" y="30" fill="{c["txt"]}" class="a" xml:space="preserve">']
+           f'<text x="30" y="{a_y:.0f}" fill="{c["txt"]}" font-size="{ART_FS}px" class="a" xml:space="preserve">']
     for i, l in enumerate(ART):
-        out.append(f'<tspan x="30" y="{30 + (i + a_off) * LH}">{E(l)}</tspan>')
+        out.append(f'<tspan x="30" y="{a_y + i * ART_LH:.0f}">{E(l)}</tspan>')
     out.append('</text>')
     out.append(f'<text x="{ix:.0f}" y="30" class="a" xml:space="preserve">')
     for i, segs in enumerate(info):
-        y = 30 + (i + i_off) * LH
+        y = round(i_y + i * LH)
         out.append(f'<tspan x="{ix:.0f}" y="{y}">' + "".join(f'<tspan fill="{col}">{E(t)}</tspan>' for t, col in segs) + '</tspan>')
     out.append('</text></svg>')
     return "\n".join(out)
