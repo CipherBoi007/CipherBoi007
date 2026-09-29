@@ -1,12 +1,12 @@
-<a href="https://YOUR-PORTFOLIO-URL">
-  <img src="./assets/hero.svg" width="100%" alt="Yogesh V. A builder who turns ideas into live products that people actually use. Build, think, lead. Next: building technology for the people that conventional systems overlook." />
+<a href="https://yogesh-v-dev-ten.vercel.app">
+  <img src="./assets/hero.svg" width="100%" alt="Yogesh V — full stack developer, AI/ML, Ramanathapuram, Tamil Nadu. My name decrypting from cipher text." />
 </a>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://yogesh-v-dev-ten.vercel.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yogesh-v-dev/"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:cipherboi007@gmail.com"><img src="https://img.shields.io/badge/email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://YOUR-PORTFOLIO-URL/Yogesh_V_Resume.pdf"><img src="https://img.shields.io/badge/resume-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+  <a href="https://yogesh-v-dev-ten.vercel.app/Yogesh_V_Resume.pdf"><img src="https://img.shields.io/badge/resume-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 </p>
 
 ## What I do
